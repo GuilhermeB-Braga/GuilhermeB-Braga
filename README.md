@@ -1,16 +1,11 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=150&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=090910"  />
-</div>
-
-###
-
 # 👨🏻‍💻 Olá! Me chamo Guilherme Braga.
-###
+
+## 👾 Sobre Mim
 - :fire: Sou um desenvolvedor **`Fullstack`**.
 - :construction: Atualmente estou aprendendo **Typescript** e cursando **Engenharia de Software**.
 - :rocket: Fundador e único redator da [Clean Stack](https://www.cleanstack.com.br "Visite meu blog de tecnologia"), meu blog pessoal.
 
-## Tecnologias
+## :wrench: Tecnologias e Ferramentas
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
@@ -34,6 +29,14 @@
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+</div>
+
+###
+
+## :chart_with_upwards_trend: Métricas e Estastísticas
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=GuilhermeB-Braga&locale=pt-Br&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" width="100%" height="220" alt="streak graph"  />
 </div>
 
 
