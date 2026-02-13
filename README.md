@@ -4,11 +4,11 @@
 
 ###
 
-# 🐱‍💻 Eae! Me chamo Guilherme Braga.
+# 👨🏻‍💻 Olá! Me chamo Guilherme Braga.
 ###
-- 🐱‍🏍 Sou um desenvolvedor **`Fullstack`**.
-- 🐱‍🚀 Atualmente estou aprendendo **Typescript** e cursando **Engenharia de Software**.
-- 🐱‍👤 Fundador e único redator da [Clean Stack](https://www.cleanstack.com.br "Visite meu blog de tecnologia"), meu blog pessoal.
+- :fire: Sou um desenvolvedor **`Fullstack`**.
+- :construction: Atualmente estou aprendendo **Typescript** e cursando **Engenharia de Software**.
+- :rocket: Fundador e único redator da [Clean Stack](https://www.cleanstack.com.br "Visite meu blog de tecnologia"), meu blog pessoal.
 
 ## Tecnologias
 
@@ -34,13 +34,6 @@
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
-</div>
-
-###
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=80&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=090910"  />
 </div>
 
 
