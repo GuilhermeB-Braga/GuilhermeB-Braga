@@ -1,16 +1,14 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=150&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=18c9c9"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=150&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=1c1c31"  />
 </div>
 
 ###
 
-# Eae! Seja Bem-vindo!
-## 🐱‍💻 Eu sou o Guilherme Braga
-
-- 🐱‍🏍 Desenvolvedor **FullStack**.
+# 🐱‍💻 Eae! Me chamo Guilherme Braga.
+###
+- 🐱‍🏍 Sou um desenvolvedor **`Fullstack`**.
 - 🐱‍🚀 Atualmente estou me aperfeiçando em **Typescript** e curso **Engenharia de Software**.
-- 🐱‍👤 Fundador e único redator da Clean Stack, meu blog pessoal.
-
+- 🐱‍👤 Fundador e único redator da [Clean Stack](https://www.cleanstack.com.br "Visite meu blog de tecnologia"), meu blog pessoal.
 
 ## Tecnologias
 
@@ -39,16 +37,11 @@
 </div>
 
 ###
-
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GuilhermeB-Braga/GuilhermeB-Braga/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GuilhermeB-Braga/GuilhermeB-Braga/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GuilhermeB-Braga/GuilhermeB-Braga/output/pacman-contribution-graph.svg">
-</picture>
-
-###
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=80&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=1c1c31"  />
+</div>
 
 
 <!--
