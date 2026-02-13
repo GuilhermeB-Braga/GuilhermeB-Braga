@@ -7,7 +7,7 @@
 # 🐱‍💻 Eae! Me chamo Guilherme Braga.
 ###
 - 🐱‍🏍 Sou um desenvolvedor **`Fullstack`**.
-- 🐱‍🚀 Atualmente estou me aperfeiçando em **Typescript** e curso **Engenharia de Software**.
+- 🐱‍🚀 Atualmente estou aprendendo **Typescript** e cursando **Engenharia de Software**.
 - 🐱‍👤 Fundador e único redator da [Clean Stack](https://www.cleanstack.com.br "Visite meu blog de tecnologia"), meu blog pessoal.
 
 ## Tecnologias
