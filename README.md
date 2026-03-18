@@ -35,7 +35,7 @@
 
 ## :chart_with_upwards_trend: Métricas e Estastísticas
 
-<div align="center">
+<div align="left">
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GuilhermeB-Braga&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
   
