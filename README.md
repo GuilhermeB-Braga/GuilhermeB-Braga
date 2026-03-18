@@ -36,8 +36,19 @@
 ## :chart_with_upwards_trend: Métricas e Estastísticas
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=GuilhermeB-Braga&locale=pt-Br&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" width="100%" height="220" alt="streak graph"  />
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GuilhermeB-Braga&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  
+  <p align="left">
+    <img height="190em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeB-Braga&show_icons=true&theme=dark&bg_color=0d1117"/>
+    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeB-Braga&layout=compact&theme=dark&bg_color=0d1117"/>
+  </p>
+  
+  <img src="https://streak-stats.demolab.com?user=GuilhermeB-Braga&theme=whatsapp-dark2&hide_border=true&border_radius=20&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  
 </div>
+
+###
 
 
 <!--
